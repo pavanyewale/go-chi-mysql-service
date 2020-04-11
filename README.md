@@ -18,6 +18,5 @@ go build
 Install curl if not already installed.  
 
 command : apt install curl
-
-L820:~ tushar$ curl http://localhost:8080/Golang
+curl http://localhost:8080/Golang
 Hi there, I love Golang!
